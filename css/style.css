@@ -183,52 +183,61 @@ header {
 /*     SERVICES     */
 /* -------------- */
 .service-hero {
-    background-image: url('../img/service/service-hero.jpg');
-    background-position: 0 75%;
+	background-image: url('../img/service/service-hero.jpg');
+	background-position: 0 75%;
 }
 
 /* -------------- */
 
 .service-hero-box {
-    position: relative;
-    height: 300px;
-    background-size: cover;
-    z-index: 0;
+	position: relative;
+	height: 300px;
+	background-size: cover;
+	z-index: 0;
 }
 
 .service-hero-box p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 3rem;
-    text-transform: uppercase;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 3rem;
+	text-transform: uppercase;
 }
 
 .service-pricing .box-one {
-    background-image: url('../img/service/engine.jpg');
+	background-image: url('../img/service/engine.jpg');
 }
 .service-pricing .box-two {
-    background-image: url('../img/service/visual.jpg');
+	background-image: url('../img/service/visual.jpg');
 }
 .service-pricing .box-three {
-    background-image: url('../img/service/car-audio.jpg');
+	background-image: url('../img/service/car-audio.jpg');
 }
 .service-pricing .box-four {
-    background-image: url('../img/service/allinone.jpg');
+	background-image: url('../img/service/allinone.jpg');
 }
 
 .service-pricing .card-header {
-    font-size: 2rem;
-    cursor: pointer;
+	font-size: 2rem;
+	cursor: pointer;
 }
 
 .service-pricing h3 {
-    font-weight: bold;
+	font-weight: bold;
 }
 
 .service-pricing .btn {
-    font-size: 1.6rem;
-    text-transform: uppercase;
+	font-size: 1.6rem;
+	text-transform: uppercase;
+}
+
+/* -------------- */
+/*    FOOTER   */
+/* -------------- */
+
+.contact-hero {
+	background-image: url('../img/contact/contact-hero.jpg');
+	background-position: 0 40%;
 }
 
 /* -------------- */
